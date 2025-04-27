@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amira</h1>
 
 ## 💫 About Me:
-🌱 I'm currently delving into various data science subjects in addition to exploring NLP topics.<br><br>👩🏼‍💻I have a strong passion for machine learning and deep learning, and I thoroughly enjoy delving into subjects related to data science, computer vision, natural language processing, and artificial intelligence as a whole.<br><br>💬 Ask me about data science, machine learning and deep learning<br><br>📫 How to reach me amiraboudaoud90@gmail.com<br><br>🌷 "Data is the language of the powerholders." — Jodi Petersen
+🌱 I'm currently delving into various data science subjects in addition to exploring NLP and the latest Generative AI and LLM topics.<br><br>👩🏼‍💻I have a strong passion for machine learning and deep learning, and I thoroughly enjoy delving into subjects related to data science, computer vision, natural language processing, and artificial intelligence as a whole.<br><br>💬 Ask me about data science, machine learning and deep learning<br><br>📫 How to reach me amiraboudaoud90@gmail.com<br><br>🌷 "Data is the language of the powerholders." — Jodi Petersen
 
 
 ## 🌐 Socials:
